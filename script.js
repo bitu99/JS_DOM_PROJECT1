@@ -54,7 +54,6 @@ button.onclick = function(){
                             button.innerHTML="remove";
                             button.style.backgroundColor = "white";
                             button.style.color = "black";
-                        
                             h2.innerHTML = "Friend";
                             h2.style.color = "green";
                         };
