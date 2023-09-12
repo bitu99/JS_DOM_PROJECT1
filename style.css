@@ -53,4 +53,5 @@ button{
     font-weight: 500;
     background-color: cornflowerblue;
     color: white;
+    box-shadow: 2px 2px 8px 1px cornflowerblue;
 }
